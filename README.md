@@ -2,6 +2,11 @@
 AWS 클라우드에서 ISMS 인증 기준을 자동으로 체크
 aws-cli + boto3 사용
 
+사전 설치  
+aws-cli  
+
+aws configure 로 access key 인증  
+
 현재 구현된 항목 
 
 계정 암호 정책(o)  

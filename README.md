@@ -23,5 +23,6 @@ IAM 역할 최근 사용일자 체크
 [30일 이내 사용(양호), 30일 초과=확인]  
 // 2022-09-20      
 
-Security Group List 불러오기 및 All inbound 정책 체크  
+사용 중인 모든 리전과 EC2의 Security Group List 액셀 파일로 출력 기능 추가
+[설명 없는 Default Out bound Rule 은 제외]
 // 2022-10-07
